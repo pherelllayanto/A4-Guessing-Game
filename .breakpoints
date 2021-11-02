@@ -1,0 +1,26 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "2515b1f3-c78a-4db0-acdc-96b707779892",
+        "line": 2,
+        "version": 92,
+        "index": 55
+      }
+    ],
+    "GuessingGame.java": [
+      {
+        "id": "1ddbd033-f096-472b-b2e4-9ea1d969b0b8",
+        "line": 35,
+        "version": 6516,
+        "index": 783
+      },
+      {
+        "id": "4715ff40-7c79-4283-95ca-d6b746d09c6b",
+        "line": 83,
+        "version": 6516,
+        "index": 2117
+      }
+    ]
+  }
+}
